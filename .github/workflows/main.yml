@@ -32,4 +32,17 @@ jobs:
           # Optional - x64 or x86 architecture, defaaults to x64
           architectire: 'x64'
         #Install dependencies
+      - name: Install Dependencies
+        run: python -m pip install --upgrade pip setuptools
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        #Install dependencies
         

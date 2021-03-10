@@ -40,4 +40,4 @@ jobs:
         run: |
          pip install pytest
          pip install pytest-cov
-         pytest ./workflows/test.py 
+         pytest ./.github/workflows/test.py 
